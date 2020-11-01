@@ -21,7 +21,7 @@ ul {
 
 ul li {
     float: left;
-    width: 260px;
+    width: 268px;
     height: 40px;
     background-color: black;
     opacity: .8;
@@ -39,6 +39,7 @@ ul li a {
 
 ul li a:hover {
     background-color: green;
+    cursor: pointer;
 }
 
 ul li ul li {
